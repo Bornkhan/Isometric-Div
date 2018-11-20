@@ -1,3 +1,3 @@
 # Isometric-Div
-Create a floating mirror like shadow effect using pure HTML and CSS
+Create a floating mirror like shadow effect using pure HTML and CSS<br/>
 See Demo <a href="http://htmlpreview.github.com/?https://github.com/Bornkhan/Isometric-Div/blob/master/index.html">here</a>
